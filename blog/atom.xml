@@ -4,14 +4,14 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Jessica Shi's Blog</title>
+	<title>Chao's Blog</title>
 	<link href="http://jess202147406.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://jess202147406.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://jess202147406.github.io/blog</id>
 	<author>
-		<name>Jessica Shi</name>
-		<email>j.shi36@lse.ac.uk</email>
+		<name>Chao</name>
+		<email>C.YU25@lse.ac.yk</email>
 	</author>
 
 	{% for post in site.posts %}
